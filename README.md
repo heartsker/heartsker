@@ -13,8 +13,6 @@ Reach me out at daniel.pustotin@gmail.com
 ### I am happy to see you here!
 ![](https://visitor-badge.glitch.me/badge?page_id=heartsker.heartsker&left_color=red&right_color=black)
 
----
-
 ## Profile
 
 I am a bachelor student in Computer Science in Higher School of Economics University at Applied Mathematics and Information Science [program](https://www.hse.ru/en/ba/ami/)
