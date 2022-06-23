@@ -41,7 +41,7 @@ Like My Work?
 
 - 🍎 &nbsp; I’m currently self-employed **iOS developer**
 - 🚀 &nbsp; I’m currently learning Full Stack Development
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/heartsker).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/heartsker?tab=repositories).
 - 😈 &nbsp; I am a huge fan of classical citcoms
 - 📫 &nbsp; How to reach me: daniel.pustotin@gmail.com
 - 📝 &nbsp; Checkout my [CV](https://github.com/heartsker/heartsker/blob/master/CV.pdf)
