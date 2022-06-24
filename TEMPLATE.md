@@ -22,7 +22,7 @@ Love solving algorithmic problems, building software architectures and coffee �
 
 Joined Github {{ ACCOUNT_AGE }} years ago
 
-Since then I pushed {{ COMMITS }}+ commits, opened {{ ISSUES }}+ issues, submitted {{ PULL_REQUESTS }}+ pull requests, created {{ GISTS }}+ gists and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }}+ public repositories
+Since then I pushed {{ COMMITS }}+ commits, submitted {{ PULL_REQUESTS }}+ pull requests, conducted {{ CODE_REVIEWS }} and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }}+ public repositories
 
 🌇 See my github skyline for [2021](https://skyline.github.com/heartsker/2021)
 
@@ -51,6 +51,12 @@ Like My Work?
 - 📝 &nbsp; Checkout my [CV](https://github.com/heartsker/heartsker/blob/master/CV.pdf)
 
 ### Languages and Tools:
+
+Top 3 most used languages:
+
+{{ LANGUAGE_TEMPLATE_START:max=3 }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_END }}
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" alt="xcode"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode"></code>
