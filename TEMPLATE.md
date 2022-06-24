@@ -22,7 +22,7 @@ Love solving algorithmic problems, building software architectures and coffee â˜
 
 Joined Github {{ ACCOUNT_AGE }} years ago
 
-Since then I pushed {{ COMMITS }}+ commits, submitted {{ PULL_REQUESTS }}+ pull requests, conducted {{ CODE_REVIEWS }} and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }}+ public repositories
+Since then I pushed {{ COMMITS }}+ commits, submitted {{ PULL_REQUESTS }}+ pull requests, reviewed {{ CODE_REVIEWS }} pull requests and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }}+ public repositories
 
 ðŸŒ‡ See my github skyline for [2021](https://skyline.github.com/heartsker/2021)
 
