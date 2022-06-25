@@ -24,7 +24,7 @@ Joined Github {{ ACCOUNT_AGE }} years ago
 
 Since then I pushed {{ COMMITS }}+ commits, submitted {{ PULL_REQUESTS }}+ pull requests and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }}+ public repositories
 
-🌇 See my github skyline for [2021](https://skyline.github.com/heartsker/2021)
+🌇 See my github skyline for [**2021**](https://skyline.github.com/heartsker/2021) and [**2022**](https://skyline.github.com/heartsker/2022)
 
 Like My Work?
 
