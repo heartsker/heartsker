@@ -22,7 +22,7 @@ Love solving algorithmic problems, building software architectures and coffee �
 
 Joined Github 3 years ago
 
-Since then I pushed 713+ commits, submitted 117+ pull requests and contributed to 18+ public repositories
+Since then I pushed 716+ commits, submitted 117+ pull requests and contributed to 18+ public repositories
 
 🌇 See my github skyline for [2021](https://skyline.github.com/heartsker/2021)
 
@@ -51,12 +51,6 @@ Like My Work?
 - 📝 &nbsp; Checkout my [CV](https://github.com/heartsker/heartsker/blob/master/CV.pdf)
 
 ### Languages and Tools:
-
-Top 3 most used languages:
-
-![Haml](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ece2a9&message=Haml%EF%B8%B185.8%25)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B17.3%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B16.7%25)
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" alt="xcode"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode"></code>
