@@ -22,7 +22,7 @@ Love solving algorithmic problems, building software architectures and coffee �
 
 Joined Github 3 years ago
 
-Since then I pushed 729+ commits, submitted 118+ pull requests and contributed to 18+ public repositories
+Since then I pushed 742+ commits, submitted 118+ pull requests and contributed to 18+ public repositories
 
 🌇 See my github skyline for [**2021**](https://skyline.github.com/heartsker/2021) and [**2022**](https://skyline.github.com/heartsker/2022)
 
@@ -48,7 +48,7 @@ Like My Work?
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/heartsker?tab=repositories).
 - 😈 &nbsp; I am a huge fan of classical citcoms
 - 📫 &nbsp; How to reach me: daniel.pustotin@gmail.com
-- 📝 &nbsp; Checkout my [CV](https://github.com/heartsker/heartsker/blob/master/CV.pdf)
+- 📝 &nbsp; Checkout my [CV](https://heartsker.github.io/CV)
 
 ### Languages and Tools:
 
