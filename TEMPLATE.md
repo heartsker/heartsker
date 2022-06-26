@@ -48,7 +48,7 @@ Like My Work?
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/heartsker?tab=repositories).
 - 😈 &nbsp; I am a huge fan of classical citcoms
 - 📫 &nbsp; How to reach me: daniel.pustotin@gmail.com
-- 📝 &nbsp; Checkout my [CV](https://github.com/heartsker/heartsker/blob/master/CV.pdf)
+- 📝 &nbsp; Checkout my [CV](https://heartsker.github.io/CV)
 
 ### Languages and Tools:
 
