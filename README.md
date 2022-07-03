@@ -23,7 +23,7 @@ Love solving algorithmic problems, building software architectures and coffee �
 
 Joined Github 3 years ago
 
-Since then I pushed 716+ commits, submitted 119+ pull requests and contributed to 18+ public repositories
+Since then I pushed 717+ commits, submitted 119+ pull requests and contributed to 15+ public repositories
 
 🌇 See my github skyline for [**2021**](https://skyline.github.com/heartsker/2021) and [**2022**](https://skyline.github.com/heartsker/2022)
 
@@ -39,7 +39,7 @@ Like My Work?
 * Excellent troubleshooting skills
 * Fundamental knowledge in Math, Computer Science and software design
 * Experience QA testing, improving software perfomance
-* ICPC semifinalist
+* ICPC semifinalist - checkout my [LeetCode page](https://leetcode.com/heartsker/)
 * Basic knowledge in UX design and promotion
 
 ### Current status
@@ -69,7 +69,7 @@ Like My Work?
 ### Projects and Dev Stuffs:
 
 <details>
-  <summary><b>📈 Github Stats</b></summary>
+  <summary><b>⚡️ Github Stats</b></summary>
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heartsker&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heartsker&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
