@@ -1,5 +1,5 @@
 ## Hi and wellcome, I am Daniel 👋
-iOS developer
+Middle iOS developer
 
 Reach me out at daniel.pustotin@gmail.com
 ### Find me anywhere [@heartsker](https://t.me/heartsker):
@@ -23,7 +23,7 @@ Love solving algorithmic problems, building software architectures and coffee �
 
 Joined Github 3 years ago
 
-Since then I pushed 800+ commits, submitted 121+ pull requests and contributed to 15+ public repositories
+Since then I pushed 804+ commits, submitted 121+ pull requests and contributed to 15+ public repositories
 
 🌇 See my github skyline for [**2021**](https://skyline.github.com/heartsker/2021) and [**2022**](https://skyline.github.com/heartsker/2022)
 
@@ -44,7 +44,7 @@ Like My Work?
 
 ### Current status
 
-- 🍎 &nbsp; I’m currently self-employed **iOS developer**
+- 🍎 &nbsp; I’m currently work at [Yandex](https://yandex.com/maps/?ll=10.854186%2C49.182076&z=4) on position of middle **iOS developer**
 - 🚀 &nbsp; I’m currently learning Full Stack Development
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/heartsker?tab=repositories).
 - 😈 &nbsp; I am a huge fan of classical citcoms
