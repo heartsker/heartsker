@@ -1,5 +1,5 @@
 ## Hi and wellcome, I am Daniel 👋
-middle iOS developer
+Middle iOS developer
 
 Reach me out at daniel.pustotin@gmail.com
 ### Find me anywhere [@heartsker](https://t.me/heartsker):
