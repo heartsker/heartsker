@@ -1,5 +1,5 @@
 ## Hi and wellcome, I am Daniel 👋
-iOS developer
+middle iOS developer
 
 Reach me out at daniel.pustotin@gmail.com
 ### Find me anywhere [@heartsker](https://t.me/heartsker):
@@ -44,7 +44,7 @@ Like My Work?
 
 ### Current status
 
-- 🍎 &nbsp; I’m currently self-employed **iOS developer**
+- 🍎 &nbsp; I’m currently work at [Yandex](https://yandex.com/maps/?ll=10.854186%2C49.182076&z=4) on position of middle **iOS developer**
 - 🚀 &nbsp; I’m currently learning Full Stack Development
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/heartsker?tab=repositories).
 - 😈 &nbsp; I am a huge fan of classical citcoms
