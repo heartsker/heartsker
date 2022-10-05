@@ -29,3 +29,13 @@ jobs:
       env:
         FILE_NAME: "who_am_i.md"
         FILE_DATA: $("echo #For now ($F_TIME) I am Daniel Pustotin\n##@heartsker\n##daniel.pustotin@gmail.com")
+        
+    - name: Updated who_am_i.md
+      run: |
+        if [[ "$(git status --porcelain)" != "" ]]; then
+        git config user.name heartsker
+        git config user.email heartsker@gmail.com
+        git add .
+        git commit -m "Updated who_am_i.md $(date +'at %l:%M %p on %v')"
+        git push
+        fi
