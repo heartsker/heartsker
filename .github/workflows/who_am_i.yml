@@ -25,10 +25,14 @@ jobs:
         DAY: "${{ steps.current-time.outputs.day }}"
       run: echo $TIME $R_TIME $F_TIME $YEAR $DAY
 
-    - uses: "finnp/create-file-action@master"
-      env:
-        FILE_NAME: "who_am_i.md"
-        FILE_DATA: $("echo #For now ($F_TIME) I am Daniel Pustotin\n##@heartsker\n##daniel.pustotin@gmail.com")
+    - uses: actions/checkout@v2
+    - uses: 1arp/create-a-file-action@0.2
+      with:
+        file: 'who_am_i.md'
+        content: |
+          \#For now ($F_TIME) I am Daniel Pustotin
+          \#\#@heartsker
+          \#\#daniel.pustotin@gmail.com
         
     - name: Updated who_am_i.md
       run: |
