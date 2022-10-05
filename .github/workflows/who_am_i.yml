@@ -7,7 +7,7 @@ on:
 
 jobs:
   publish:
-    runs-on: macos-latest
+    runs-on: linux-latest
     steps:
     - name: Get current time
       uses: josStorer/get-current-time@v2.0.1
