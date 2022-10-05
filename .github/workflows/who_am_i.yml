@@ -20,7 +20,7 @@ jobs:
           utcOffset: "+08:00"
 
       - name: Create file
-      - uses: 1arp/create-a-file-action@0.2
+        uses: 1arp/create-a-file-action@0.2
         env:
           TIME: "${{ steps.current-time.outputs.time }}"
           R_TIME: "${{ steps.current-time.outputs.readableTime }}"
