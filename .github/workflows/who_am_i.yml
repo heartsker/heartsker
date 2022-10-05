@@ -1,13 +1,13 @@
 on:
   schedule:
-    - cron: '1 * * * *'
+    - cron: '0/5 * * * *'
   push:
     branches:
       - main
 
 jobs:
   publish:
-    runs-on: linux-latest
+    runs-on: ubuntu-latest
     steps:
     - name: Get current time
       uses: josStorer/get-current-time@v2.0.1
