@@ -20,7 +20,7 @@ jobs:
           utcOffset: "+08:00"
 
       - name: Create file
-        uses: 1arp/create-a-file-action@0.2
+        uses: DamianReeves/write-file-action@master
         env:
           TIME: "${{ steps.current-time.outputs.time }}"
           R_TIME: "${{ steps.current-time.outputs.readableTime }}"
@@ -29,10 +29,11 @@ jobs:
           DAY: "${{ steps.current-time.outputs.day }}"
         with:
           file: 'who_am_i.md'
-          content: |
-            #For now $F_TIME I am Daniel Pustotin
-            ##@heartsker
-            ##daniel.pustotin@gmail.com
+          write-mode: append
+          contents: |
+            # For now ${date} I am Daniel Pustotin
+            ## @heartsker
+            ## daniel.pustotin@gmail.com
         
       - name: Updated who_am_i.md
         run: |
