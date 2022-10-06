@@ -34,6 +34,11 @@ jobs:
             # For now ${date} I am Daniel Pustotin
             ## @heartsker
             ## daniel.pustotin@gmail.com
+            
+      - name: Print time
+        env:
+          DAY: "${{ steps.current-time.outputs.day }}"
+        run: echo $DAY > test.md
         
       - name: Updated who_am_i.md
         run: |
