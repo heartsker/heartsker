@@ -28,7 +28,7 @@ jobs:
           YEAR: "${{ steps.current-time.outputs.year }}"
           DAY: "${{ steps.current-time.outputs.day }}"
         with:
-          file: 'who_am_i.md'
+          path: 'who_am_i.md'
           write-mode: append
           contents: |
             # For now ${date} I am Daniel Pustotin
