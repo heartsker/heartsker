@@ -1,1 +1,1 @@
-at  8:15 AM on %v
+at  8:17 AM on %v
