@@ -87,7 +87,7 @@ Like My Work?
   <br/>
   <summary><b>🛠 Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOS 12.3</li>
+  	    <li><b>OS:</b> MacOS 13.0</li>
 	    <li><b>Laptop: </b> MacBookPro 16" 2021 M1Pro</li>
 	    <li><b>Terminal: </b>Oh My Zsh</li>
 	    <li><b>Code Editor:</b>
@@ -96,7 +96,8 @@ Like My Work?
           <li>Xcode - Every project needs its colors</li>
         </ul>
 	    <br/>
-	</ul>	
+	</ul>
+	Do not ever miss security updates! ❤️‍🩹
 </details>
 
 <div align="center">
