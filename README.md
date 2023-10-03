@@ -23,7 +23,7 @@ Love solving algorithmic problems, building software architectures and coffee â˜
 
 Joined Github 4 years ago
 
-Since then I pushed 3104+ commits, submitted 392+ pull requests and contributed to 6+ public repositories
+Since then I pushed 3105+ commits, submitted 392+ pull requests and contributed to 5+ public repositories
 
 ðŸŒ‡ See my github skyline for [**2021**](https://skyline.github.com/heartsker/2021) and [**2022**](https://skyline.github.com/heartsker/2022)
 
