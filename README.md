@@ -23,7 +23,7 @@ Love solving algorithmic problems, building software architectures and coffee �
 
 Joined Github 4 years ago
 
-Since then I pushed 3674+ commits, submitted 451+ pull requests and contributed to 2+ public repositories
+Since then I pushed 3676+ commits, submitted 452+ pull requests and contributed to 2+ public repositories
 
 🌇 See my github skyline for [**2021**](https://skyline.github.com/heartsker/2021) and [**2022**](https://skyline.github.com/heartsker/2022)
 
@@ -44,7 +44,7 @@ Like My Work?
 
 ### Current status
 
-- 🍎 &nbsp; Senior **iOS developer** at Alfabank
+- 🍎 &nbsp; Senior **iOS developer** at Alfa-Bank
 - 🚀 &nbsp; Passionate with Full Stack Development
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/heartsker?tab=repositories).
 - 😈 &nbsp; I am a huge fan of classic citcoms
