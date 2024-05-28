@@ -44,7 +44,7 @@ Like My Work?
 
 ### Current status
 
-- 🍎 &nbsp; Senior **iOS developer** at Alfabank
+- 🍎 &nbsp; Senior **iOS developer** at Alfa-Bank
 - 🚀 &nbsp; Passionate with Full Stack Development
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/heartsker?tab=repositories).
 - 😈 &nbsp; I am a huge fan of classic citcoms
