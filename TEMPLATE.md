@@ -1,5 +1,5 @@
 ## Hi and wellcome, I am Daniel 👋
-Middle iOS developer
+Senior iOS developer
 
 Reach me out at daniel.pustotin@gmail.com
 ### Find me anywhere [@heartsker](https://t.me/heartsker):
@@ -16,7 +16,7 @@ Reach me out at daniel.pustotin@gmail.com
 
 ## Profile
 
-I am a bachelor student in Computer Science in Higher School of Economics University at Applied Mathematics and Information Science [program](https://www.hse.ru/en/ba/ami/)
+I am a bachelor in Computer Science in Higher School of Economics University at Applied Mathematics and Information Science [program](https://www.hse.ru/en/ba/ami/)
 
 ### My Absolute Favorites:
 Love solving algorithmic problems, building software architectures and coffee ☕️
