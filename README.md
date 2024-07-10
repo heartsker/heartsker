@@ -1,5 +1,5 @@
 ## Hi and wellcome, I am Daniel 👋
-Middle iOS developer
+Senior iOS developer
 
 Reach me out at daniel.pustotin@gmail.com
 ### Find me anywhere [@heartsker](https://t.me/heartsker):
@@ -16,14 +16,14 @@ Reach me out at daniel.pustotin@gmail.com
 
 ## Profile
 
-I am a bachelor student in Computer Science in Higher School of Economics University at Applied Mathematics and Information Science [program](https://www.hse.ru/en/ba/ami/)
+I am a bachelor in Computer Science in Higher School of Economics University at Applied Mathematics and Information Science [program](https://www.hse.ru/en/ba/ami/)
 
 ### My Absolute Favorites:
 Love solving algorithmic problems, building software architectures and coffee ☕️
 
 Joined Github 5 years ago
 
-Since then I pushed 3835+ commits, submitted 475+ pull requests and contributed to 0+ public repositories
+Since then I pushed 3837+ commits, submitted 475+ pull requests and contributed to 0+ public repositories
 
 🌇 See my github skyline for [**2021**](https://skyline.github.com/heartsker/2021) and [**2022**](https://skyline.github.com/heartsker/2022)
 
