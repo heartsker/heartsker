@@ -21,9 +21,9 @@ I am a bachelor in Computer Science in Higher School of Economics University at 
 ### My Absolute Favorites:
 Love solving algorithmic problems, building software architectures and coffee ☕️
 
-Joined Github 5 years ago
+Joined Github 6 years ago
 
-Since then I pushed 4744+ commits, submitted 503+ pull requests and contributed to 4+ public repositories
+Since then I pushed 4745+ commits, submitted 503+ pull requests and contributed to 4+ public repositories
 
 🌇 See my github skyline for [**2021**](https://skyline.github.com/heartsker/2021) and [**2022**](https://skyline.github.com/heartsker/2022)
 
